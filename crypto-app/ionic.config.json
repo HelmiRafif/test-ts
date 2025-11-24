@@ -1,0 +1,7 @@
+{
+  "name": "Crypto App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

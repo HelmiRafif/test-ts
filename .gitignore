@@ -1,0 +1,34 @@
+# Ionic Config
+crypto-app/.ionic/
+crypto-app/www/
+crypto-app/platforms/
+crypto-app/plugins/
+
+# Dependencies
+node_modules/
+crypto-app/node_modules/
+
+# Build outputs
+crypto-app/dist/
+crypto-app/build/
+*.js.map
+*.css.map
+crypto-app/.angular/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
